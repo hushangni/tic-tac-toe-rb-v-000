@@ -2,9 +2,13 @@
   "RSpec": {
     "coverage": {
       "/home/hushangni/tic-tac-toe-rb-v-000/lib/tic_tac_toe.rb": [
-
+        null,
+        1,
+        null,
+        null,
+        null
       ]
     },
-    "timestamp": 1601673333
+    "timestamp": 1601673445
   }
 }
